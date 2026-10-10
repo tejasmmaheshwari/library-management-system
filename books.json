@@ -1,0 +1,35 @@
+{
+    "books": [
+        {
+            "id": "B001",
+            "title": "the game of thrones",
+            "author": "ewinsdv",
+            "available": true
+        },
+        {
+            "id": "B002",
+            "title": "harry potter",
+            "author": "j.k.rowling",
+            "available": true
+        },
+        {
+            "id": "B003",
+            "title": "that time i got reincarted",
+            "author": "ods asen",
+            "available": true
+        },
+        {
+            "id": "B004",
+            "title": "live lif",
+            "author": "oausdf",
+            "available": true
+        },
+        {
+            "id": "B005",
+            "title": "that time i got",
+            "author": "dfghj",
+            "available": true
+        }
+    ],
+    "issued": []
+}
